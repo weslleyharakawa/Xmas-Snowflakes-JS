@@ -6,3 +6,5 @@ Just above the </BODY>
 
 The documented code is included on xmas snowfall_effect.js file.
 
+Live demo: http://code.wcre8tive.com/js/snowflakes.html
+
